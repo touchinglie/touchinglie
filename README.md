@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning PHP/C#
+
+#### Here is my blog.
+
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://betteruptime.com/?utm_source=status_badge)
+
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
