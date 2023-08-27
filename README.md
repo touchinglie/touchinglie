@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP/C#
+- 🌱 I’m currently learning PHP/C
 
 #### Here is my blog.
 
