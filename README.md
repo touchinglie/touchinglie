@@ -4,9 +4,7 @@
 
 #### Here is my blog.
 
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://blog.dowty.ml/)
-
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/ey8j.svg)](https://dowtyblog.herokuapp.com/)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://dowblog.rr.nu/)
 
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
