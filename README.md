@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP/C/Python(Django)
+- 🌱 I’m currently learning PHP/C/Python(Django)/JS/TS
 
 #### Here is my blog.
 
