@@ -6,7 +6,9 @@
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://dowblog.rr.nu/)
 
-[动态typecho博客](https://dowtyblog.rf.gd/)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1kght.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+![touchinglie's GitHub stats](https://github-readme-stats.vercel.app/api?username=touchinglie&show_icons=true&theme=tokyonight)
 
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
