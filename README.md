@@ -6,7 +6,7 @@
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://dowblog.rr.nu/)
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1kght.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1kght.svg)](https://dowtyblog.rf.gd/)
 
 ![touchinglie's GitHub stats](https://github-readme-stats.vercel.app/api?username=touchinglie&show_icons=true&theme=tokyonight)
 
