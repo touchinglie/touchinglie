@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP/C/Python(Tkinter)/JS/TS
+- 🌱 I’m currently learning PHP/C/C++/Python(Tkinter,sqlite)/JS/TS
 
 #### Here is my blog.
 
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://dowblog.rr.nu/)
+[动态typecho博客](https://dowblog.rr.nu/)
 
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
