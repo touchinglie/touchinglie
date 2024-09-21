@@ -10,6 +10,8 @@
 
 ![touchinglie's GitHub stats](https://github-readme-stats.vercel.app/api?username=touchinglie&show_icons=true&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=touchinglie&repo=FastestStreamDet)](https://github.com/touchinglie/FastestStreamDet)
+
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
