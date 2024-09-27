@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP/C/C++/Python(Tkinter,sqlite)/JS/TS
+- 🌱 I’m currently learning PHP/C/C++/Python(Tkinter,sqlite)/JS/TS.
+- Hope to make great contribution to human beings.
 
 #### Here is my blog.
 
