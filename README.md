@@ -17,6 +17,8 @@
 
 [![Python package](https://github.com/touchinglie/FastestStreamDet/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/touchinglie/FastestStreamDet/actions/workflows/python-package.yml)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=touchinglie&repo=SnakeGame)](https://github.com/touchinglie/SnakeGame)
+
 <!--
 **touchinglie/touchinglie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
