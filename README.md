@@ -5,7 +5,7 @@
 
 #### Here is my blog.
 
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://dowblog.rr.nu/)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/esyi.svg)](https://gitblog.dowblog.top/)
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1kght.svg)](https://dowtyblog.rf.gd/)
 
